@@ -1,0 +1,7 @@
+C:\Users\Kab-35-6\Desktop\T13_1\bin\Debug\T13_1.exe.config
+C:\Users\Kab-35-6\Desktop\T13_1\bin\Debug\T13_1.exe
+C:\Users\Kab-35-6\Desktop\T13_1\bin\Debug\T13_1.pdb
+C:\Users\Kab-35-6\Desktop\T13_1\obj\Debug\T13_1.csproj.AssemblyReference.cache
+C:\Users\Kab-35-6\Desktop\T13_1\obj\Debug\T13_1.csproj.CoreCompileInputs.cache
+C:\Users\Kab-35-6\Desktop\T13_1\obj\Debug\T13_1.exe
+C:\Users\Kab-35-6\Desktop\T13_1\obj\Debug\T13_1.pdb
